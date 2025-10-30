@@ -1,4 +1,3 @@
-import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 // Components
@@ -7,7 +6,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 // Pages
 import Home from "./pages/Home";
-import Cof from "./pages/Cof";
+import Cof from "./pages/cof";
 import Wed from "./pages/Wed";
 import Gro from "./pages/Gro";
 import Eve from "./pages/Eve";
