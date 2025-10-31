@@ -80,7 +80,7 @@ npm run dev
 
 **Connect with our team and explore our work:**
 
-- **Live Website:** [Hotel Site Live🌐](https://your-live-site-url.com)
+- **Live Website:** [Hotel Site Live🌐](https://habesha-traditional-dress.vercel.app/)
 - **Team Portfolio:** [Portfolio🌐](https://your-team-portfolio.com)
 - **Team GitHub Repository:** [github](https://github.com/merkebtech)
 - **Team LinkedIn:** [linkedin](https://linkedin.com/in/ourteam)
