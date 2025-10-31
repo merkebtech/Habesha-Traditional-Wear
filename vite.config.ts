@@ -6,3 +6,4 @@ export default defineConfig({
   plugins: [react()],
   base: '/', // ensures correct asset paths on custom domain
 })
+
